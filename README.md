@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 UPDATE:
 I have begun working with world machine professional and UE5. This means in the future I will be sharing game creation progress with you guys. Thank you so much for being here and if I can help in anyway let me know!
+
+Dev discord:
+https://discord.gg/dfrZrA9Evu
