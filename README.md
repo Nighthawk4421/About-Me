@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kreaton
-- 👀 I’m interested in ...html css js fivem lua python c# and node.js for bot coding
-- 🌱 I’m currently learning ...lua, python, c#, cpp
+- 👋 Hi, I’m @Nighthawk
+- 👀 I’m interested in ...html css js fivem lua python c# node.js and cpp coding
+- 🌱 I’m currently learning ...c#, cpp, lua
 - 💞️ I’m looking to collaborate on ... fivem qbcore based scripts and menu ui's/ban systems
 - 📫 How to reach me ... Discord: █▓▒░⡷⠂ИIGHΓHДЩҜ⠐⢾░▒▓█#4421
 
